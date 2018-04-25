@@ -8,3 +8,5 @@ languages:
   - ruby
   - javascript
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/diy-json-serializer-lab.git
